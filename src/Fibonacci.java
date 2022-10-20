@@ -38,7 +38,8 @@ public class Fibonacci {
 //         int count = 2;
         
 //         while (count <= n) {
-//             int temp = b;
+                                      // Enter Print statement here if u want to see all the previous no.s  System.out.print(b + " ");
+//             int temp = b;          // Replace 'b' with 'a' in print statement if you want to print '0' in the series.
 //             b = b + a;
 //             a = temp;
 //             count++;
