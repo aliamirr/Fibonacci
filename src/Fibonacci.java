@@ -29,9 +29,9 @@ public class Fibonacci {
 
 // public class Fibonacci {
 //     public static void main(String args[]) {
-//     System.out.println("Enter the index of which Fibonacci number is required ");
+//     System.out.println("Enter the index of which Fibonacci number is required: ");
 //         Scanner input = new Scanner(System.in);
-//         int n = in.nextInt();
+//         int n = input.nextInt();
 //         int a = 0;
 //         int b = 1;
 //         int count = 2;
