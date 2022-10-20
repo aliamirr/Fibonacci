@@ -45,7 +45,7 @@ public class Fibonacci {
 //             count++;
 //         }    
         
-//         System.out.println(b);
+//         System.out.println(b + " ");
         
 //     }  
 // }  
