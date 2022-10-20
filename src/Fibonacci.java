@@ -8,7 +8,7 @@ public class Fibonacci {
 
         Scanner fb = new Scanner(System.in);
         int n = fb.nextInt();
-        System.out.println("Fibonacci Series till " + n + "terms is: ");
+        System.out.println("Fibonacci Series till " + n + " terms is: ");
 
 
 
